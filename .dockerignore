@@ -5,5 +5,3 @@
 # Specific to Terraform installation
 !hashicorp.asc
 
-# Specific to Hadolint linter
-!hadolint.yaml
